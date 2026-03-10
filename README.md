@@ -16,7 +16,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:No puede realizarce simplemente comenzando a progamar porque primero hay que entender el problema, ver qué necesita el usuario y planificar cómo se va a hacer el sistema. Si se empieza a programar sin eso, pueden aparecer muchos errores o el programa puede no servir para lo que se necesita
+   R:No puede realizarse simplemente comenzando a progamar porque primero hay que entender el problema, ver qué necesita el usuario y planificar cómo se va a hacer el sistema. Si se empieza a programar sin eso, pueden aparecer muchos errores o el programa puede no servir para lo que se necesita
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
