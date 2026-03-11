@@ -16,46 +16,49 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 1. ¿Por qué el desarrollo de software no puede realizarse simplemente comenzando a programar?
 
-   R:No puede realizarse simplemente comenzando a progamar porque primero hay que entender el problema, ver qué necesita el usuario y planificar cómo se va a hacer el sistema. Si se empieza a programar sin eso, pueden aparecer muchos errores o el programa puede no servir para lo que se necesita
+   R: No puede realizarse simplemente comenzando a programar porque primero hay que entender el problema, analizar qué necesita el usuario y planificar cómo se va a desarrollar el sistema. El desarrollo de software tiene varias etapas que deben seguir un orden. Si se empieza a programar sin        hacer eso antes, pueden aparecer muchos errores o el programa puede no cumplir con lo que el usuario necesita.
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R: Lo que significa es que antes de empezar a desarrollar el software se hace un plan donde se analizan las necesidades del cliente y se organizan las etapas del desarrollo. Ese plan es el que guía todo el proceso hasta que el sistema queda terminado.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R: Las ventajas de utilizar un plan de desarrollo es que nos permite organizar mejor el trabajo, calcular los costos y saber cuánto tiempo va a llevar el proyecto. También hace que el desarrollo sea más predecible porque las etapas ya están definidas.
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: Las criticas que se hacen a los modelos tradicionales de desarrollo son que los proyectos de software casi nunca son tan ordenados como el modelo plantea. También hay poca interacción con el cliente, los errores de una etapa pueden pasar a las siguientes y es difícil cambiar los requerimientos una vez que el proyecto empezó.
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Muchas organizaciones combinan metodologias ágiles y modelos dirigidos por un plan porque no hay un único modelo que sirva para todos los proyectos. Por eso muchas organizaciones usan cosas de los métodos ágiles y cosas de los modelos dirigidos por un plan para adaptarse mejor a cada proyecto.
 
 
 ### Actividad 2
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      |      Es la etapa donde se estudia el problema y se habla con el usuario para entender qué necesita el sistema.       |
+| Diseño                        |      En esta etapa se planifica cómo va a funcionar el programa, cómo va a estar organizado y cómo se van a resolver los problemas.      |
+| Codificación                  |      Es cuando se escribe el código del programa usando un lenguaje de programación.       |
+| Prueba                        |      Se revisa el programa para encontrar errores y ver si funciona correctamente.       |
+| Puesta en marcha / Despliegue |      Es cuando el sistema ya terminado se instala o se entrega para que los usuarios lo empiecen a usar.       |
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: En la etapa que se obtienen los requerimientos del sistema del sistema es en de análisis.
+    
   * ¿En qué etapa se construye el programa?
 
-    R:
-  * ¿Cuál es el objetivo principal de las pruebas?
+    R: En la etapa que se construye el programa es en la de codificación.
     
-    R:
+  * ¿Cuál es el objetivo principal de las pruebas?
+      
+    R: El objetivo principal de las pruebas es ver y analizar si el programa funciona como corresponde, detectar posibles errores o fallas y comprobar que esté listo para pasar a la etapa de despliegue.
+    
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -65,15 +68,26 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: 
+1- Ingeniería de requerimientos
+
+2- Diseño
+
+3- Codificación
+
+4- Prueba
+
+5- Despliegue
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R: Si hay un error en una etapa inicial, ese error puede pasar a las etapas siguientes y generar más problemas en el desarrollo del sistema. Esto puede hacer que después sea más difícil y costoso corregirlo.
+    
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Porque en este modelo los requerimientos se definen al principio del proyecto. Si después cambian, es difícil modificarlos porque ya se avanzó en las otras etapas del desarrollo.
+    
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
@@ -113,7 +127,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+2. [x] El modelo incremental entrega el sistema en varias versiones.
+3. [x] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [x] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [x] El modelo en espiral incorpora el análisis de riesgos.
