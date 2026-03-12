@@ -92,12 +92,34 @@ R:
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
+| Cascada     |                         |                        |
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
 | RAD         |                          |                        |
 
+
+- **CASCADA**
+  
+    **Caracteristicas principales:** El método cascada es un modelo de desarrollo de software simple y secuencial, donde cada etapa se realiza una después de la otra. Es rápido y económico para proyectos pequeños. Sin embargo, tiene desventajas: los errores de las primeras etapas pueden            detectarse recién al final, es difícil definir todos los requerimientos desde el inicio, no permite hacer cambios fácilmente durante el proyecto, y el cliente ve el resultado recién cuando el sistema está terminado.
+  
+    **Cuando conviene usarlo:** Conviene usarlo en proyectos pequeños o sencillos, cuando los requerimientos están bien definidos desde el principio y no se esperan muchos cambios durante el desarrollo.
+
+- **Incremental**
+
+    **Caracteristicas principales:** El sistema se desarrolla y entrega en varias versiones, agregando funcionalidades en cada una. Cada entrega es un sistema completo y funcional, lo que reduce la complejidad y permite que el usuario use una primera versión rápidamente. Sin embargo, sigue       siendo secuencial, por lo que los errores pueden arrastrarse entre etapas.
+
+    **Cuando conviene usarlo:** Conviene usarlo cuando el sistema es grande o complejo, cuando se quiere entregar una primera versión funcional rápidamente, y cuando es posible dividir el desarrollo en varias versiones que se irán ampliando con el tiempo.
+
+- **Prototipos**
+
+    **Caracteristicas principales:** 
+
+     **Cuando conviene usarlo:** 
+      
+
+
+    
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
@@ -112,16 +134,18 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 - Tiempo limitado
 
 **Preguntas**
-
+  
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: Recomendaria el modelo RAD
+  
 - Justifique su respuesta.
 
-  R:
+  R: Porque es un sistema pequeño, con pocos usuarios, los requerimientos están claros y además hay tiempo limitado. El modelo RAD permite desarrollar aplicaciones de forma rápida, haciendo el proceso más ágil y eficiente para este tipo de proyectos.
+  
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R: Ingeniería de requerimientos, diseño, codificación, prueba y despliegue.
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
