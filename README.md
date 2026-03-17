@@ -115,7 +115,7 @@ Complete la siguiente tabla.
 
     **Caracteristicas principales:** El modelo de prototipos se caracteriza principalmente por centrarse en la construcción de versiones preliminares del software con el objetivo de comprender mejor los requerimientos del usuario. Estos prototipos son representaciones simplificadas del producto final, desarrolladas para facilitar la interacción con el usuario y validar ideas antes de la implementación completa.
 
-     **Cuando conviene usarlo:**El modelo de prototipos conviene utilizarlo cuando los requerimientos del sistema no están completamente claros o pueden cambiar con el tiempo. En estas situaciones, construir un prototipo permite explorar ideas y ayudar a los usuarios a expresar mejor lo que realmente necesitan.
+     **Cuando conviene usarlo:** El modelo de prototipos conviene utilizarlo cuando los requerimientos del sistema no están completamente claros o pueden cambiar con el tiempo. En estas situaciones, construir un prototipo permite explorar ideas y ayudar a los usuarios a expresar mejor lo que realmente necesitan.
   
 - **Espiral**
 
