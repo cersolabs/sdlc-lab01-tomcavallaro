@@ -133,7 +133,12 @@ Complete la siguiente tabla.
     
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+    
+      Cuando existen muchos riesgos en el proyecto, el modelo más adecuado es Espiral, ya que se centra en el análisis y la gestión de riesgos en cada iteración,        permitiendo identificarlos y mitigarlos antes de avanzar.
+    
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    
+      El modelo que ayuda a comprender mejor los requerimientos del usuario es Prototipos, porque permite construir versiones preliminares del sistema para que el       usuario interactúe, brinde retroalimentación y aclare sus necesidades.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
