@@ -113,10 +113,21 @@ Complete la siguiente tabla.
 
 - **Prototipos**
 
-    **Caracteristicas principales:** 
+    **Caracteristicas principales:** El modelo de prototipos se caracteriza principalmente por centrarse en la construcción de versiones preliminares del software con el objetivo de comprender mejor los requerimientos del usuario. Estos prototipos son representaciones simplificadas del producto final, desarrolladas para facilitar la interacción con el usuario y validar ideas antes de la implementación completa.
 
-     **Cuando conviene usarlo:** 
-      
+     **Cuando conviene usarlo:**El modelo de prototipos conviene utilizarlo cuando los requerimientos del sistema no están completamente claros o pueden cambiar con el tiempo. En estas situaciones, construir un prototipo permite explorar ideas y ayudar a los usuarios a expresar mejor lo que realmente necesitan.
+  
+- **Espiral**
+
+    **Caracteristicas principales:** El espiral se caracteriza por ser un proceso de desarrollo iterativo e incremental que combina elementos del modelo secuencial con la evaluación continua de riesgos. El desarrollo se organiza en ciclos o “vueltas” de la espiral, donde en cada iteración se planifica, se analizan los requerimientos, se diseña, se implementa y se prueba una parte del sistema.
+
+     **Cuando conviene usarlo:** Conviene utilizarlo principalmente en proyectos grandes, complejos o con alto nivel de incertidumbre, donde no es posible definir todos los requerimientos desde el inicio o estos pueden cambiar con el tiempo.
+
+- **RAD**
+
+    **Caracteristicas principales:** Se caracteriza por priorizar la velocidad de desarrollo mediante el uso de herramientas avanzadas y técnicas que permiten construir software en plazos cortos. Se apoya en entornos de desarrollo visual, generación automática de código y el uso de componentes reutilizables o predefinidos.
+
+     **Cuando conviene usarlo:** Conviene utilizarlo cuando se necesita desarrollar software en plazos muy cortos, priorizando la rapidez de entrega sin perder funcionalidad básica.
 
 
     
